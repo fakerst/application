@@ -37,7 +37,9 @@ home page:https://github.com/wkliao/BTIO
 
 blog:https://fakerth.blog.csdn.net/article/details/138621441
 # 8.LAMMPS
-home page:https://docs.lammps.org/Intro_overview.html:https://nscc.mrzhenggang.com/lammps/
+home page:https://docs.lammps.org/Intro_overview.html
+
+home page:https://nscc.mrzhenggang.com/lammps/
 
 blog:https://fakerth.blog.csdn.net/article/details/138628726
 # 9.ParaDiS
